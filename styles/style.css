@@ -92,9 +92,13 @@ footer ul{
 #pardal{
     display: flex;
     align-items: center;
+    font-size: 1.4em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
 
 }
 #pardal img {
+    margin-right: 15%;
     width: 20%;
 }
 
